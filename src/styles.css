@@ -1,0 +1,74 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container,
+.log {
+  background: black;
+  color: white;
+  min-height: 100vh;
+  width: 600px;
+}
+.space {
+  padding: 20px;
+}
+.login {
+  background: whitesmoke;
+  width: 400px;
+  margin: auto;
+  color: black;
+  height: 370px;
+}
+h3 {
+  padding-top: 30px;
+}
+h1 {
+  padding-top: 30px;
+}
+p {
+  padding: 0px 40px;
+}
+.box {
+  background: whitesmoke;
+  margin: auto;
+  color: black;
+  width: 95%;
+  padding-bottom: 40px;
+}
+
+.inp {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+input {
+  width: 250px;
+  margin-top: 20px;
+  height: 30px;
+  border-radius: 5px;
+  border: solid 2px lightgray;
+}
+.fa {
+  color: gray;
+  margin-left: -20px;
+}
+.reg {
+  width: 94%;
+  margin-top: 40px;
+  padding: 7px 0;
+  color: grey;
+  border: none;
+  background: darkgrey;
+}
+.link {
+  text-decoration: none;
+}
+.in {
+  margin: 25px;
+  padding: 10px;
+  width: 260px;
+  color: grey;
+  border: none;
+  background: darkgray;
+  border-radius: 5px;
+}
